@@ -1,0 +1,33 @@
+
+.wrapper{
+  margin-top: 20px;
+}
+
+.footer{
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px !important;
+}
+
+.footer h3{
+  font-size: 14px !important;
+}
+.widget-image{
+  height: 480px;
+}
+
+.relative{
+  position: relative;
+}
+
+.absolute{
+  position: absolute;
+  top:50%;
+  left: 40%;
+}
+
+/* .absolute h3, p{
+  color: white;
+} */
